@@ -193,7 +193,7 @@ if __name__ == '__main__':
     print(settings)
     
     # Slack Message
-    url = 'https://hooks.slack.com/services/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'
+    url = 'http://xxx.xxx.xxx'
     message = {
         "text": f"GNN train start"
     }
