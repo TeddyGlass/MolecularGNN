@@ -1,8 +1,8 @@
 #!/bin/bash
 
 date=201218
-train_path=./datasets/Ames_SMILES_train.csv
-test_path=./datasets/Ames_SMILES_test.csv
+train_path=../datasets/Ames_SMILES_train.csv
+test_path=../datasets/Ames_SMILES_test.csv
 task=classification
 
 dim=100
